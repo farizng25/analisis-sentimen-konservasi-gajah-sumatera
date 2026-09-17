@@ -109,7 +109,3 @@ Kesalahan klasifikasi antara Positif dan Negatif dapat dipahami karena komentar 
 - Membangun sistem pemantauan sentimen *real-time* sebagai *early warning system* konflik gajah–manusia.
 - Menangani ketidakseimbangan kelas Netral melalui augmentasi data/*oversampling*.
 Program Studi Statistika, Universitas Indonesia
-
----
-
-*Proyek ini dikembangkan sebagai bagian dari mata kuliah Analisis Data Tidak Terstruktur.*
